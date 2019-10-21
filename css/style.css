@@ -1,44 +1,56 @@
 h1{
+  border:;
   color: blue;
   text-align: center;
 }
-img{flood-opacity:7%;
-
+img{
+  border:;
+  flood-opacity:7%;
 }
-body{background-color:navy;
+body{
+  border:;
+  background-color:navy;
   text-align: center;;
 }
 h2{
+  border:;
   color: pink;
   font-style: italic;
   text-align: center;
 }
 h3{
+  border:;
   color:powderblue;
   text-align: center;
 }
 p{
-  text-align: right;
+  border:;
   font-family: sans-serif;
   background-color:peru;
 }
 ol{
+  border:;
   line-height: 40px;
   float:right;
   width:30%;
 }
-.intro{color:mediumorchid;
+.intro{
+  border:;
+  color:mediumorchid;
   font-size:20px;
   font-style:;
   background-color:peru;
 }
-.main{float:left;
+.main{
+  border:;
+  float:left;
   width:70%;
   color:midnightblue;
   font-size:30px;
   background-color:peru;
 }
 .sidebar{
+  border:;
   color:mediumblue;
   font-size:40px;
   float:right:
