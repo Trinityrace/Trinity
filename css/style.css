@@ -6,7 +6,6 @@ h1{
 img{
   border:2px solid red;
   background-color:blueviolet;
-  flood-opacity:7%;
 }
 body{
   border:2px solid red;
@@ -60,6 +59,7 @@ ol{
   background-color:peru;
 }
 .sidebar{
+  text-align: right;
   border: 2px solid red;
   float:right:
   width:30%;
