@@ -31,6 +31,7 @@ ol{
 .intro{color:mediumorchid;
   font-size:20px;
   font-style:;
+  background-color:peru;
 
 }
 .projects{color:mediumblue;
@@ -40,6 +41,11 @@ ol{
 .About{color:midnightblue;
   font-size:30px;
   font-style:;
+}
+.main{float:left;
+  width:70%;
+  background-color:peru;
+
 }
 .sidebar{
   float:right:
