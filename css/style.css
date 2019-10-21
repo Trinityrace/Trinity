@@ -67,7 +67,8 @@ ol{
     text-align: center;
     border: 6px solid red;
     float:right;
-    width:30%;
+    font-size:30px;
+    width:50%;
     background-color:yellow;
   }
 .Main{
