@@ -37,8 +37,12 @@ ol{
   font-size:40px;
   font-style:;
 }
-.README.md{color:midnightblue;
+.About{color:midnightblue;
   font-size:30px;
   font-style:;
-
+}
+.sidebar{
+  float:right:
+  width:30%;
+  background-color:yellow;
 }
