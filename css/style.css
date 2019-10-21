@@ -59,6 +59,8 @@ ol{
   background-color:peru;
 }
 .sidebar{
+  padding:6px;
+  margin:20px;
   text-align: right;
   border: 2px solid red;
   float:right:
