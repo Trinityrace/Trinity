@@ -6,7 +6,7 @@
 ##I love nature
 ##I love Dogs.
 ####
-##I used the following languages to set up my portfolio
+##technologies used
 -css
 -html
 #
