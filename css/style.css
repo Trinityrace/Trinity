@@ -33,12 +33,7 @@ p{
   font-size: 20px;
   line-height: 80px;
 }
-ol{
-  border:2px solid red;
-  line-height: 40px;
-  width:30px;
-  float:right;
-}
+
 .intro{
   border:2px solid red ;
   color:mediumorchid;
@@ -50,7 +45,16 @@ ol{
   border:2px solid red;
   color:mediumblue;
   font-size:40px;
+  width:30px;
+  float:right;
   font-style:;
+}
+ol{
+  border:2px solid red;
+  line-height: 40px;
+  width:30px;
+  float:right;
+  
 }
 .Main{
   border:2px solid red;
