@@ -39,21 +39,22 @@ p{
   color:mediumorchid;
   font-size:20px;
   font-style:;
-
-}
-.projects{
-  border:2px solid red;
-  color:mediumblue;
-  font-size:40px;
-  width:30px;
-  float:right;
-  font-style:;
 }
 ol{
   border:2px solid red;
   line-height: 40px;
-  width:30px;
+  width:30%;
   float:right;
+}
+.sidebar{
+    padding:6px;
+    margin:20px;
+    text-align: right;
+    border: 2px solid red;
+    float:right:
+    width:30%;
+    background-color:yellow;
+  }
   
 }
 .Main{
@@ -64,13 +65,4 @@ ol{
   float:left;
   width:70%;
   background-color:peru;
-}
-.sidebar{
-  padding:6px;
-  margin:20px;
-  text-align: right;
-  border: 2px solid red;
-  float:right:
-  width:30%;
-  background-color:yellow;
 }
