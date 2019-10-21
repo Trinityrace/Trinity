@@ -1,59 +1,66 @@
 h1{
-  border:;
+  border:2px solid red;
   color: blue;
   text-align: center;
 }
 img{
-  border:;
-  background-color: blueviolet;
+  border:2px solid red;
+  background-color:blueviolet;
   flood-opacity:7%;
 }
 body{
-  border:;
+  border:2px solid red;
   background-color:navy;
   text-align: center;;
 }
 h2{
-  border:;
+  border: 2px solid red;
   color: pink;
   font-style: italic;
   text-align: center;
 }
 h3{
-  border:;
+  border:2px solid red;
   color:powderblue;
   text-align: center;
 }
 p{
-  border:;
+  border:2px solid red;
+  text-align: right;
   font-family: sans-serif;
+  color:pink;
   background-color:peru;
+  font-size: 20px;
+  line-height: 80px;
 }
 ol{
-  border:;
+  border:2px solid red;
   line-height: 40px;
-  float:right;
-  width:30%;
 }
 .intro{
-  border:;
+  border:2px solid red ;
   color:mediumorchid;
   font-size:20px;
   font-style:;
-  background-color:peru;
+
 }
-.main{
-  border:;
-  float:left;
-  width:70%;
+.projects{
+  border:2px solid red;
+  color:mediumblue;
+  font-size:40px;
+  font-style:;
+}
+.Main{
+  border:2px solid red;
   color:midnightblue;
   font-size:30px;
+  font-style:;
+  float:left;
+  width:70%;
   background-color:peru;
 }
 .sidebar{
-  border:;
-  color:mediumblue;
-  font-size:40px;
+  border: 2px solid red;
   float:right:
   width:30%;
   background-color:yellow;
