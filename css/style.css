@@ -73,8 +73,8 @@ ol{
   }
 .Main{
   text-align:center;
-  padding:63px;
-  border:6px;
+  padding:60px;
+  border:6px solid red;;
   margin:6px;
   color:midnightblue;
   font-size:30px;
