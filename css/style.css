@@ -53,13 +53,14 @@ ol{
     margin:20px;
     text-align: right;
     border: 2px solid red;
-    float:right:
+    float:right;
     width:30%;
     background-color:yellow;
   }
   
 }
 .Main{
+  text-align:center;
   border:2px solid red;
   color:midnightblue;
   font-size:30px;
