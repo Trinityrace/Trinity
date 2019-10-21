@@ -83,3 +83,8 @@ ol{
   width:40%;
   background-color:peru;
 }
+@media screen and (max-width: 320px) {
+  body{background-color:black;
+  color:white;}
+
+}
