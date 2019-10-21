@@ -61,11 +61,12 @@ ol{
 }
 .Main{
   text-align:center;
-  border:2px solid red;
+  border:2px;
+  border-end-end-radius:2px;
   color:midnightblue;
   font-size:30px;
   font-style:;
   float:left;
-  width:50%;
+  width:70%;
   background-color:peru;
 }
