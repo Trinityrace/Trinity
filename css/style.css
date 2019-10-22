@@ -99,6 +99,7 @@ ol{
     float:right;
     font-size:30px;
     width:30%;
+    height:18%;
     background-color:yellow;
   }
   .sideb{
@@ -109,6 +110,7 @@ ol{
     float:right;
     font-size:40px;
     width:50%;
+    height:50%;
     background-color:yellow;
   }
 .Main{
@@ -120,7 +122,8 @@ ol{
   font-size:30px;
   font-style:;
   float:left;
-  width:40%;
+  width:30%;
+  height:18%;
   background-color:peru;
 }
 @media screen and (max-width: 320px) {
