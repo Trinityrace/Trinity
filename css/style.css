@@ -12,10 +12,14 @@ img{width:"400px"; height:"400px";
   margin:3px;
   background-color:blueviolet;
 }
+#home img{
+  border-radius: 100%;
+  margin-left:50%;
+  filter: grayscale(100%);
+  transition: 0.4s all;
+
+}
 body{
-  background-image:url("image/yh.jpg");
-  background-color:#cccccc;
-  background-repeat:no-repeat;
   margin:10px;
   padding:2px;
   border:2px;
