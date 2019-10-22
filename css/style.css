@@ -14,8 +14,9 @@ img{width:"400px"; height:"400px";
 }
 #home img{
   border-radius: 100%;
-  margin-right: 50%;
-  margin-left:50%;
+  /* margin-right: 50%; */
+  /* margin-left:50%; */
+  margin: auto;
   filter: grayscale(100%);
   transition:0.4s all;
 }
@@ -43,7 +44,11 @@ body{
   padding:2px;
   border:2px;
   background-color:navy;
-  text-align: center;;
+  text-align: center;
+  background-image: url("image/yh.jpg");
+  background-repeat: :no-repeat;
+  /* background-color:black; */
+  color:black;
 }
 h2{
   padding:2px;
@@ -74,7 +79,6 @@ p{
   font-size: 20px;
   line-height: 80px;
 }
-
 .intro{
   border:2px solid red ;
   color:mediumorchid;
@@ -111,7 +115,7 @@ ol{
 }
 @media screen and (max-width: 320px) {
   body{
-    background-image: url("image/yh.jpeg");
+    background-image: url("image/yh.jpg");
     background-color:black;
   color:white;}
 }
