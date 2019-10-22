@@ -101,6 +101,16 @@ ol{
     width:30%;
     background-color:yellow;
   }
+  .sideb{
+    padding:20px;
+    margin:auto;
+    text-align: center;
+    border: 6px solid red;
+    float:right;
+    font-size:40px;
+    width:50%;
+    background-color:yellow;
+  }
 .Main{
   text-align:center;
   padding:60px;
