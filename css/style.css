@@ -17,7 +17,14 @@ img{width:"400px"; height:"400px";
   margin-left:50%;
   filter: grayscale(100%);
   transition:0.4s all;
-
+}
+.border{
+  display: block;
+  margin: auto;
+  width: 150px;
+  height: 3px;
+  background-color: seagreen;
+  margin-bottom: 40px;
 }
 body{
   margin:10px;
