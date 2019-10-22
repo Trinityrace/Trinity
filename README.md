@@ -1,4 +1,7 @@
 # I am JOHN.
+
+## Tis is My Portfolio
+
 ## An aspiring software developer currently studying at <a href="https://moringaschool.com">MORINGA  School</a>.
 
 ## - I love art,
@@ -9,4 +12,10 @@
 ## Technologies used
 - css
 - html
-# 
+
+### Future features
+- more project urls to be added.
+-  
+
+### contact info
+- trinityrtime@gmail.com
