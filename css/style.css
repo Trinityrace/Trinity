@@ -13,6 +13,9 @@ img{width:"400px"; height:"400px";
   background-color:blueviolet;
 }
 body{
+  background-image:url("image/yh.jpg");
+  background-color:#cccccc;
+  background-repeat:no-repeat;
   margin:10px;
   padding:2px;
   border:2px;
@@ -86,5 +89,4 @@ ol{
 @media screen and (max-width: 320px) {
   body{background-color:black;
   color:white;}
-
 }
