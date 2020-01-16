@@ -5,6 +5,15 @@
   background-size: cover;
   background-image: url("https://scontent-msp1-1.cdninstagram.com/vp/072a5fe428a299659a2b3c3ff3cb3101/5E4839AB/t51.2885-15/e35/17586750_192040037964215_48188442139426816_n.jpg?_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=111&ig_cache_key=MTQ4MDQzNTg4MDY3MDA3MzE5Nw%3D%3D.2");
 }
+.footer{
+  margin-bottom: 10px;
+  position: fixed;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+.footer:p{
+  color: chartreuse;
+}
 h1{
   border:2px;
   padding:2px;
@@ -98,7 +107,10 @@ ol{
   width:30%;
   float:right;
 }
-.sidebar{
+#s{
+  color: chartreuse;
+}
+/* .sidebar{
     padding:63px;
     margin:6px;
     text-align: center;
@@ -108,8 +120,8 @@ ol{
     width:30%;
     height:18%;
     background-color:yellow;
-  }
-  .sideb{
+  } */
+  /* .sideb{
     padding:20px;
     margin:auto;
     text-align: center;
@@ -132,7 +144,7 @@ ol{
   width:30%;
   height:18%;
   background-color:peru;
-}
+} */
 @media screen and (max-width: 320px) {
   body{
     background-image: url("image/yh.jpg");
